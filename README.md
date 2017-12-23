@@ -15,7 +15,7 @@ include('./mailC.php');
 ** assign new MailChip Object to a Varaible**
 ```
 
-$MailChimp = new MailChimp('4bc5602cf2ea3fcf8ecd35e9f09866f1-us17');
+$MailChimp = new MailChimp('API_KEY');
 ```
 **add ListID**
 ```
