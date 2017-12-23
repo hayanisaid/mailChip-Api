@@ -1,4 +1,6 @@
-## mailChip-Api-
+## MailChip-Api-
+
+
 Using MailChip API to manage subscriber , delete,add subscribers to mailList Using PHP With Ajax
 
 ## Usage
