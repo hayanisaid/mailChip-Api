@@ -5,7 +5,7 @@ Using MailChip API to manage subscriber , delete,add subscribers to mailList Usi
 
 ## Usage
 
-**include mailC.php file in your principale file**
+**include mailC.php file in your principal file**
 ```
 
 
@@ -16,6 +16,10 @@ include('./mailC.php');
 ```
 
 $MailChimp = new MailChimp('4bc5602cf2ea3fcf8ecd35e9f09866f1-us17');
+```
+**add ListID**
+```
+$list_id = 'yourListId';
 ```
 ** to get mailChip List** 
 use get Method
